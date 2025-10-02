@@ -1,4 +1,4 @@
-# chai aur backend series
+# vidTV
 
 This is a video series on backend with javascript
 
